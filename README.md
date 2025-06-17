@@ -19,7 +19,7 @@ Example URL: https://sqwid-api-mainnet.reefscan.info/get/marketplace/by-collecti
 
 - Replace `<POSITION_ID>` with position, which you can get from all NFTs collections list : [here](#what-routes-need-to-be-called-to-get-all-nfts-in-a-collection)
 
-You can access royalty percentage from `creator.royalty.royaltyAmount` and receivers from `creator.royalty.receiver`. This is the basic structure of response.
+You can access royalty percentage from `creator.royaltyAmount` and receivers from `creator.royaltyReceivers`. This is the basic structure of response.
 
   
 <img width="662" alt="Screenshot 2025-06-17 at 12 31 52 PM" src="https://github.com/user-attachments/assets/36c18800-daeb-4cc0-b18a-40faae828e06" />
